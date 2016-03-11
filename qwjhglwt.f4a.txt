@@ -1,0 +1,27 @@
+﻿去掉没用的类
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    Administrator <a0000@111.com>
+#
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 1 and 1 different commit each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# Changes to be committed:
+#	modified:   app/src/main/java/com/mr235/volleyimageloaderdemo/activity/ImageLoaderActivity.java
+#	modified:   app/src/main/java/com/mr235/volleyimageloaderdemo/activity/ImageRequestActivity.java
+#	modified:   app/src/main/java/com/mr235/volleyimageloaderdemo/activity/MainActivity.java
+#	modified:   app/src/main/java/com/mr235/volleyimageloaderdemo/activity/NetworkImageViewActivity.java
+#	modified:   app/src/main/java/com/mr235/volleyimageloaderdemo/activity/RecyclerViewActivity.java
+#	modified:   app/src/main/java/com/mr235/volleyimageloaderdemo/adapter/RecyclerViewAdapter.java
+#	modified:   app/src/main/java/com/mr235/volleyimageloaderdemo/utils/BitmapLruImageCache.java
+#	modified:   app/src/main/java/com/mr235/volleyimageloaderdemo/utils/DiskLruImageCache.java
+#	modified:   app/src/main/java/com/mr235/volleyimageloaderdemo/utils/VolleyUtil.java
+#
+# Untracked files:
+#	.idea/
+#
+
